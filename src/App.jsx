@@ -21,7 +21,7 @@ function App() {
     { title: "WILLPOWER RED", src: "/track5.m4a" }
   ];
 
-  const caAddress = "0x1234567890abcdef1234567890abcdef12345678"; 
+  const caAddress = "Axrrw6MAXj1TdF1et8nBytrAcPCBwqZUpTFVuEYdpump"; 
   const images = ['m1.jpg', 'm2.jpg', 'm3.jpg', 'm4.jpg', 'm5.jpg', 'm6.jpg', 'm7.jpg', 'm8.jpg'];
 
   // Handle Mouse Events (Cursor Lobster)
