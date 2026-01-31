@@ -134,7 +134,7 @@ function App() {
                 </motion.div>
                 <motion.a 
                   whileHover={{ scale: 1.1, boxShadow: '0 0 25px rgba(255,255,255,0.6)' }} 
-                  href="https://x.com" target="_blank" 
+                  href="https://x.com/i/communities/2017630074254897318" target="_blank" 
                   style={{ backgroundColor: 'white', color: 'black', height: '60px', width: '220px', borderRadius: '12px', textDecoration: 'none', display: 'flex', alignItems: 'center', justifyContent: 'center', fontWeight: '900', cursor: 'none' }}
                 >
                   X COMMUNITY
